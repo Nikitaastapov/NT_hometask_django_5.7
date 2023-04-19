@@ -12,7 +12,6 @@ Content-Type: application/json
 POST {{baseUrl}}/advertisements/
 Content-Type: application/json
 Authorization: Token 19b3ab48536a4b4ca56d61bdde2d099f4b461c49
-
 {
   "title": "Шкаф IKEA",
   "description": "Срочно"
